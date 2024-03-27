@@ -1,1 +1,3 @@
-# ScottHughes
+# Hi there!
+
+I’m Scott, a software developer that is mad for solving meaningful problems that really matter to people. These passions for people and problem solving have looked like two ends of a spectrum with my previous experience being in electrical engineering and chaplaincy. Now, in the software space, I thrive off bringing those ends together by utilising my ever growing front-end and back-end toolkit to create solutions that influence the lives of others for the better. While I love getting in the zone, headphones on, churning out lines of code to ‘The 1975’, where I really come to life is within a hungry team, keen on chasing down big goals. 
